@@ -38,5 +38,5 @@ This project is a simple Java application that lets users play with and solve Su
    cd sudoku-solver-java
 ## How to use
 - Clone the repository
-- Compile the code (open the terminal on the repo) '''bash javac SudokuUI.java'''
-- Run the app '''bash java SudokuUI'''
+- Compile the code (open the terminal on the repo) ```bash javac SudokuUI.java```
+- Run the app ```bash java SudokuUI```
